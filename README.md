@@ -1,3 +1,5 @@
+# Hackerrank - python
+It was part of the homework 1 of ADM course of Data science master program
 # HMW01-Mowlai
 ADM-HW01-Mowlai-1917906
 The Mowlai-HW01:
